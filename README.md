@@ -692,6 +692,11 @@ El [_Product Owner_](https://www.youtube.com/watch?v=r2hU7MVIzxs&t=202s)
 nos entrega una primera iteración del prototipo de baja fidelidad
 de la aplicación en [esta imagen](./docs/movie-list.png) y esta [otra](./docs/movie-detail.png).
 
+### Prototipo de alta fidelidad
+[Link del prototipo en Figma](https://www.figma.com/file/OBql9ls0l0DycKNszIQsHp/Movie-Challenge-Design?type=design&node-id=0%3A1&mode=design&t=fr2pdy8OUEKuAjTR-1)
+
+[Link para interactuar con el prototipo] (https://www.figma.com/proto/OBql9ls0l0DycKNszIQsHp/Movie-Challenge-Design?page-id=0%3A1&node-id=4-190&scaling=min-zoom&starting-point-node-id=4%3A190&mode=design&t=olm8cVTIlmhWpLFl-1)
+
 ### Definición del producto
 
 El [_Product Owner_](https://www.youtube.com/watch?v=r2hU7MVIzxs&t=202s)
