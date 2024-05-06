@@ -11,6 +11,8 @@ module.exports = {
         "^.+\\.css$": "<rootDir>/src/__mocks__/file-mock.cjs",
         "^.+\\.module\\.(css|sass|scss)$": "identity-obj-proxy",
   "^.+\\.css$": "<rootDir>/src/__mocks__/file-mock.cjs",
+  "^.+\\.(css|png|jpg|jpeg)$": "<rootDir>/src/__mocks__/file-mock.cjs",
       },
   };
+ 
   
